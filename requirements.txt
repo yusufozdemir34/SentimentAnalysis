@@ -1,4 +1,7 @@
+Pyton 3.7
+spyder 3.3.2
 pandas==0.22.0
 gensim==3.4.0
 numpy==1.14.2
 scikit_learn==0.19.1
+
